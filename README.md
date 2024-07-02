@@ -48,9 +48,9 @@ Welcome to the Hotel Management System project repository. This Java application
    - Follow the on-screen menu to interact with the application.
    - Enter numeric choices to navigate through different operations.
   
-- In Case of any issues navigate to the file HotelManagementSystem.java and execute
+- In Case of any issues navigate to the file go to the file HotelManagementSystem.java and execute
    ```bash
-   javac HotelManagementSystem.java
+   java HotelManagementSystem.java
    ```
 
 ## Notes
