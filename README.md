@@ -47,13 +47,15 @@ Welcome to the Hotel Management System project repository. This Java application
 3. **Usage:**
    - Follow the on-screen menu to interact with the application.
    - Enter numeric choices to navigate through different operations.
+  
+- In Case of any issues navigate to the file HotelManagementSystem.java and execute
+   ```bash
+   javac HotelManagementSystem.java
+   ```
 
 ## Notes
 
 - This application uses Java's `Scanner` for user input and basic console output for display.
 - Room rates are predefined for different types of rooms (Single, Double, Suite).
 - Date handling uses Java's `LocalDate` and `DateTimeFormatter` for processing check-in and check-out dates.
-- In Case of any issues navigate to the file HotelManagementSystem.java and execute
-   ```bash
-   javac HotelManagementSystem.java
-   ```
+
